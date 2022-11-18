@@ -18,6 +18,7 @@ To address the problem this paper proposes machine learning models trained and t
 3)	Label encoding for numeric and non-numeric data             
 4)	Dividing data into test and train sets
 5)	Applying classifiers 
+
 Results are further examined using metrics like confusion matrix to investigate the accuracy of the models implemented as machine learning preprocessing techniques.To evaluate applications, all this data is examined. This thorough examination and analysis can spare the institution from suffering several technical and non-technical losses. This project aims to create a model that can determine whether a financial institution can grant a consumer a credit card.
 In this study, a model for predicting whether a financial institution will approve or deny an application for a credit card is put forth and these models can assist a company in accurately determining whether to approve or reject a card application to prevent fraud that could cost financial companies money. 
 
